@@ -4,7 +4,7 @@
 #include <sstream> 
 #include <vector>
 
-class objectA { 
+class DNA_DB { 
     public: 
         void load () { 
 
